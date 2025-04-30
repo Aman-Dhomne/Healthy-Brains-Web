@@ -69,7 +69,7 @@ Major packages and libraries used:
 
 ### 🖼️ Screenshots
 ## 🏠 Home Page
-![Alt Text](./assets/screenshots/homepage1.png)
+![Alt Text](./src/assets/screenshots/homepage1.png)
 ![Alt Text](./assets/screenshots/homepage2.png)
 #📋 Assessment Quiz
 #📊 Result Visualization
