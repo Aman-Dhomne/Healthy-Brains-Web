@@ -73,12 +73,14 @@ Major packages and libraries used:
 ## 🏠 Home Page
 ![Alt Text](./src/assets/screenshots/homepage1.png)
 ![Alt Text](.src/assets/screenshots/homepage2.png)
-#📋 Assessment Quiz
+## 📋 Assessment Quiz
 ![Alt Text](./src/assets/screenshots/assesment.png)
-#📊 Result Visualization
+## 📊 Result Visualization
 ![Alt Text](./src/assets/screenshots/display.png)
-#🧘 Yoga Recommendations
+## 🧘 Yoga Recommendations
 ![Alt Text](./src/assets/screenshots/recommendations.png)
+![Alt Text](./src/assets/screenshots/yoga.png)
+
 
 
 #🤝 Contributing
