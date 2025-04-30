@@ -46,6 +46,16 @@ Make sure you have Node.js (v14 or later) installed.
 ```bash
 npm install
 ```
+
+# 📦 Dependencies
+
+Major packages and libraries used:
+	•	React – Frontend library
+	•	React Router DOM – For page routing
+	•	Redux – State management
+	•	Syncfusion React Components – UI components (Charts, Cards, etc.)
+	•	Tailwind CSS / Bootstrap – For styling (if used)
+
 ### 3. Start the development server
 ```bash
 npm run dev
