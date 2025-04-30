@@ -2,8 +2,6 @@
 
 **Healthy Brains** is a mental wellness platform designed to help users assess their stress levels and get personalized recommendations such as yoga sequences and calming exercises. Built using **React** and **Syncfusion UI components**, the app promotes mental health through engaging and interactive tools.
 
-![Healthy Brains Banner](./assets/banner.png)
-
 ---
 
 ## 🚀 Features
@@ -83,10 +81,10 @@ Major packages and libraries used:
 
 
 
-#🤝 Contributing
+## 🤝 Contributing
 
 Feel free to open issues or pull requests if you want to contribute or suggest improvements!
 
-#📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
