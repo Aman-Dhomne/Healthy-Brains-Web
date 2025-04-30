@@ -66,14 +66,19 @@ Major packages and libraries used:
 	•	Syncfusion: If licensing is required, follow Syncfusion licensing guide.
 	•	Redux: App state (e.g., stress level) is handled through Redux reducers.
 	•	Environment variables: Not required currently, but recommended if deploying to cloud.
+ 
+ ---
 
 ### 🖼️ Screenshots
 ## 🏠 Home Page
 ![Alt Text](./src/assets/screenshots/homepage1.png)
-![Alt Text](./assets/screenshots/homepage2.png)
+![Alt Text](.src/assets/screenshots/homepage2.png)
 #📋 Assessment Quiz
+![Alt Text](./src/assets/screenshots/assesment.png)
 #📊 Result Visualization
+![Alt Text](./src/assets/screenshots/display.png)
 #🧘 Yoga Recommendations
+![Alt Text](./src/assets/screenshots/recommendations.png)
 
 
 #🤝 Contributing
