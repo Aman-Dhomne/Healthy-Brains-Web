@@ -17,3 +17,29 @@
 ---
 
 ## 📦 Folder Structure
+Healthy-Brains-Web/
+├── assets/             # Images, banner, icons
+├── components/         # Reusable components (Header, Card, etc.)
+├── pages/              # Main pages (Home, Assessment, Results, Yoga, Emergency Calm)
+├── redux/              # Redux setup for managing app state
+├── App.js              # Main app component with router
+├── index.js            # Entry point
+├── package.json
+└── README.md
+---
+
+## 🛠️ Installation & Setup Guide
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Aman-Dhomne/Healthy-Brains-Web.git
+cd Healthy-Brains-Web
+```
+
+### 2. Install dependencies
+
+Make sure you have Node.js (v14 or later) installed.
+
