@@ -47,6 +47,12 @@ Make sure you have Node.js (v14 or later) installed.
 npm install
 ```
 
+### 3. Start the development server
+```bash
+npm run dev
+```
+The app will be available at http://localhost:3000.
+
 # 📦 Dependencies
 
 Major packages and libraries used:
@@ -56,8 +62,22 @@ Major packages and libraries used:
 	•	Syncfusion React Components – UI components (Charts, Cards, etc.)
 	•	Tailwind CSS / Bootstrap – For styling (if used)
 
-### 3. Start the development server
-```bash
-npm run dev
-```
-The app will be available at http://localhost:3000.
+ #⚙️ Configuration Notes
+	•	Syncfusion: If licensing is required, follow Syncfusion licensing guide.
+	•	Redux: App state (e.g., stress level) is handled through Redux reducers.
+	•	Environment variables: Not required currently, but recommended if deploying to cloud.
+
+#🖼️ Screenshots
+#🏠 Home Page
+#📋 Assessment Quiz
+#📊 Result Visualization
+#🧘 Yoga Recommendations
+
+
+#🤝 Contributing
+
+Feel free to open issues or pull requests if you want to contribute or suggest improvements!
+
+#📄 License
+
+This project is licensed under the MIT License.
