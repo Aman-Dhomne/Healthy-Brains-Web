@@ -67,8 +67,10 @@ Major packages and libraries used:
 	•	Redux: App state (e.g., stress level) is handled through Redux reducers.
 	•	Environment variables: Not required currently, but recommended if deploying to cloud.
 
-#🖼️ Screenshots
-#🏠 Home Page
+### 🖼️ Screenshots
+## 🏠 Home Page
+![Alt Text](./assets/screenshots/homepage1.png)
+![Alt Text](./assets/screenshots/homepage2.png)
 #📋 Assessment Quiz
 #📊 Result Visualization
 #🧘 Yoga Recommendations
