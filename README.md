@@ -43,3 +43,11 @@ cd Healthy-Brains-Web
 
 Make sure you have Node.js (v14 or later) installed.
 
+```bash
+npm install
+```
+### 3. Start the development server
+```bash
+npm run dev
+```
+The app will be available at http://localhost:3000.
