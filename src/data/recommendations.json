@@ -1,0 +1,342 @@
+{
+  "good": [
+    {
+      "category": "Meditation",
+      "title": "Basic Mindfulness",
+      "description": "A simple 5-minute daily mindfulness practice to maintain your positive mental state.",
+      "detailedDescription": "Even with low stress levels, a regular mindfulness practice helps maintain mental clarity. Try this 5-minute breathing meditation once daily: sit comfortably, focus on your breath, and when your mind wanders, gently bring attention back to breathing.",
+      "resources": [
+        {
+          "title": "5-Minute Mindful Breathing",
+          "link": "/timer"
+        }
+      ]
+    },
+    {
+      "category": "Music",
+      "title": "Mood Enhancement",
+      "description": "Uplifting music selections to maintain your positive energy throughout the day.",
+      "detailedDescription": "Music can help maintain your already positive mental state. Create a playlist of uplifting songs that make you feel good. Listen during your morning routine or commute to start your day on a positive note.",
+      "resources": [
+        {
+          "title": "Uplifting Classical Pieces",
+          "description": "Bach's Brandenburg Concertos, Mozart's Symphony No. 40, Vivaldi's Four Seasons",
+          "link": "/classical"
+        },
+        {
+          "title": "Modern Calm Playlists",
+          "description": "Lo-fi beats, acoustic covers, nature sounds with gentle instruments",
+          "link": "/Calm"
+        }
+      ]
+    },
+    {
+      "category": "Yoga",
+      "title": "Simple Stretches",
+      "description": "Basic stretching poses to keep your body and mind in harmony.",
+      "detailedDescription": "Even with good mental health, regular stretching helps maintain physical and mental balance. Try these simple poses for 10 minutes in the morning or evening.",
+      "resources": [
+        {
+          "title": "Morning Stretch Routine",
+          "link": "/yoga"
+        }
+      ]
+    },
+    {
+      "category": "Quotes",
+      "title": "Daily Affirmations",
+      "description": "Positive affirmations to reinforce your healthy mindset.",
+      "detailedDescription": "Start your day with one of these affirmations. Repeat it to yourself several times while taking deep breaths.",
+      "resources": [
+        {
+          "title": "Morning Affirmations",
+          "quotes": [
+            "I am capable and strong.",
+            "I choose to be happy and grateful today.",
+            "I have the power to create change.",
+            "I am in charge of how I feel today."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Spirituality",
+      "title": "Finding Inner Peace",
+      "description": "Spiritual practices for cultivating calm and perspective.",
+      "detailedDescription": "Spirituality can provide comfort and perspective during stressful periods. These practices focus on connecting with something larger than yourself, regardless of religious background.",
+      "resources": [
+        {
+          "title": "Gratitude Journaling",
+          "description": "Write down three things you're grateful for each evening"
+        },
+        {
+          "title": "Connecting With Nature",
+          "description": "Spend 15 minutes daily observing the natural world with full attention"
+        }
+      ]
+    }
+  ],
+  "moderate": [
+    {
+      "category": "Meditation",
+      "title": "Stress Reduction Meditation",
+      "description": "A 10-15 minute daily practice to help reduce your moderate stress levels.",
+      "detailedDescription": "With moderate stress levels, it's important to develop a regular meditation practice. This 10-15 minute guided meditation focuses on releasing tension from specific areas of your body while calming your mind.",
+      "resources": [
+        {
+          "title": "Progressive Muscle Relaxation",
+          "link": "/timer"
+        },
+        {
+          "title": "Guided Visualization",
+          "description": "Imagine yourself in a peaceful setting like a beach or forest, engaging all your senses.",
+          "link": "/guided"
+        }
+      ]
+    },
+    {
+      "category": "Music",
+      "title": "Calming Playlists",
+      "description": "Curated music selections designed to reduce stress and anxiety.",
+      "detailedDescription": "Music therapy can significantly reduce stress hormones. Listen to these calming tracks for at least 20 minutes daily, especially during high-stress periods or before bed.",
+      "resources": [
+        {
+          "title": "Stress Relief Playlist",
+          "description": "Instrumental compositions with 60 BPM to match resting heart rate",
+          "link": "/StressReliefPlaylist"
+        },
+        {
+          "title": "Nature Soundscapes",
+          "description": "Ocean waves, gentle rain, forest sounds",
+          "link": "/Nature"
+        }
+      ]
+    },
+    {
+      "category": "Yoga",
+      "title": "Stress Relief Sequences",
+      "description": "Yoga poses specifically chosen to release tension and calm the nervous system.",
+      "detailedDescription": "These yoga sequences focus on gentle movements and deep breathing to activate your parasympathetic nervous system, helping your body shift out of stress mode.",
+      "resources": [
+        {
+          "title": "Evening Wind-Down Sequence",
+          "link": "/yoga"
+        },
+        {
+          "title": "Desk-Based Stretches",
+          "description": "Simple stretches you can do at your desk during work breaks",
+          "link": "/desk"
+        }
+      ]
+    },
+    {
+      "category": "Quotes",
+      "title": "Calming Reflections",
+      "description": "Thoughtful quotes to help shift perspective during challenging times.",
+      "detailedDescription": "When feeling moderately stressed, read these quotes slowly and reflect on their meaning for your current situation.",
+      "resources": [
+        {
+          "title": "Stress Perspective Quotes",
+          "quotes": [
+            "You don't have to control your thoughts. You just have to stop letting them control you. — Dan Millman",
+            "Within you, there is a stillness and a sanctuary to which you can retreat at any time. — Hermann Hesse",
+            "The greatest weapon against stress is our ability to choose one thought over another. — William James",
+            "Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure. — Oprah Winfrey"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Self-help Videos",
+      "title": "Stress Management Techniques",
+      "description": "Educational videos with practical stress management strategies.",
+      "detailedDescription": "These curated videos teach effective techniques for managing moderate stress in daily life. Try implementing at least one new strategy each week.",
+      "resources": [
+        {
+          "title": "The 5-4-3-2-1 Grounding Exercise",
+          "description": "A simple exercise to bring you back to the present when feeling overwhelmed",
+          "link": "/grounding"
+        },
+        {
+          "title": "Efficient Time Management for Stress Reduction",
+          "description": "Practical scheduling techniques to reduce daily pressures",
+          "link": "/time"
+        }
+      ]
+    },
+    {
+      "category": "Professional Help",
+      "title": "When To Consider Support",
+      "description": "Information on when professional support might be beneficial.",
+      "detailedDescription": "With moderate stress levels, professional support can provide valuable coping strategies before issues become more serious. Consider a consultation if your stress persists for more than two weeks or begins affecting your daily functioning.",
+      "resources": [
+        {
+          "title": "Types of Mental Health Support",
+          "description": "Overview of different support options: therapy, coaching, support groups",
+          "link": "/support"
+        },
+        {
+          "title": "Counselor Directory",
+          "link": "/counsellor"
+        }
+      ]
+    },
+    {
+      "category": "Spirituality",
+      "title": "Finding Inner Peace",
+      "description": "Spiritual practices for cultivating calm and perspective.",
+      "detailedDescription": "Spirituality can provide comfort and perspective during stressful periods. These practices focus on connecting with something larger than yourself, regardless of religious background.",
+      "resources": [
+        {
+          "title": "Gratitude Journaling",
+          "description": "Write down three things you're grateful for each evening"
+        },
+        {
+          "title": "Connecting With Nature",
+          "description": "Spend 15 minutes daily observing the natural world with full attention"
+        }
+      ]
+    },
+    {
+      "category": "Example",
+      "title": "Spirituality",
+      "description": "Connecting with your inner self through practices like prayer.",
+      "detailedDescription": "Connecting with your inner self through practices like prayer, reflection, or mindfulness can foster a sense of peace, purpose, and resilience during stressful times.",
+      "resources": [
+        {
+          "title": "5-Minute Mindful Breathing",
+          "link": "/timer"
+        }
+      ]
+    }
+  ],
+  "critical": [
+    {
+      "category": "Meditation",
+      "title": "Immediate Calm Techniques",
+      "description": "Short, powerful practices to help during moments of intense stress or anxiety.",
+      "detailedDescription": "These techniques are designed to help you regain balance during high-stress moments. Practice the square breathing technique whenever you feel overwhelmed: inhale for 4 counts, hold for 4, exhale for 4, hold for 4, and repeat.",
+      "resources": [
+        {
+          "title": "Emergency Calm-Down Techniques",
+          "description": "4-7-8 breathing, body scan, counting meditation",
+          "link": "/EmergencyCalm"
+        },
+        {
+          "title": "Guided Meditation for Anxiety Relief",
+          "link": "/timer"
+        }
+      ]
+    },
+    {
+      "category": "Music",
+      "title": "Therapeutic Sound",
+      "description": "Scientifically designed sound therapies to reduce high stress and anxiety.",
+      "detailedDescription": "These specialized audio tracks use specific frequencies and rhythms studied for their effectiveness in reducing cortisol levels and promoting relaxation. Listen with headphones in a quiet space for 20-30 minutes daily.",
+      "resources": [
+        {
+          "title": "Binaural Beats for Stress Reduction",
+          "description": "Alpha wave (8-12 Hz) tracks to promote relaxation"
+        },
+        {
+          "title": "432 Hz Healing Music",
+          "description": "Music tuned to frequencies associated with harmony and balance"
+        }
+      ]
+    },
+    {
+      "category": "Yoga",
+      "title": "Therapeutic Yoga Sequences",
+      "description": "Gentle yet powerful yoga practices specifically for anxiety and high stress.",
+      "detailedDescription": "These restorative yoga sequences are designed for those experiencing high stress levels. They focus on gentle, supported poses that activate the parasympathetic nervous system to counter the stress response.",
+      "resources": [
+        {
+          "title": "Restorative Yoga for Anxiety",
+          "link": "/yoga"
+        },
+        {
+          "title": "Yoga Nidra for Deep Relaxation",
+          "description": "A guided yogic sleep practice for profound relaxation"
+        }
+      ]
+    },
+    {
+      "category": "Quotes",
+      "title": "Words for Difficult Times",
+      "description": "Compassionate wisdom for when you're feeling overwhelmed.",
+      "detailedDescription": "During times of high stress, gentle reminders of our shared humanity can provide comfort. Read these quotes slowly when you're feeling overwhelmed, using them as anchors to reconnect with hope.",
+      "resources": [
+        {
+          "title": "Quotes for Difficult Moments",
+          "quotes": [
+            "You are not alone in this. Many have walked this path before and found their way through.",
+            "This feeling, however powerful, is temporary. It will pass.",
+            "You've survived 100% of your worst days so far. This inner strength will guide you now.",
+            "Small steps are still progress. One breath, one moment at a time.",
+            "In the middle of winter, I at last discovered that there was in me an invincible summer. — Albert Camus"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Self-help Videos",
+      "title": "Crisis Management Strategies",
+      "description": "Expert guidance for managing periods of intense stress and anxiety.",
+      "detailedDescription": "These videos provide practical, evidence-based techniques for navigating periods of high stress. They focus on both immediate relief strategies and building longer-term resilience.",
+      "resources": [
+        {
+          "title": "Navigating a Mental Health Crisis",
+          "description": "Step-by-step approach to managing overwhelming feelings"
+        },
+        {
+          "title": "CBT Techniques for Severe Anxiety",
+          "description": "Cognitive behavioral therapy exercises to challenge harmful thought patterns"
+        },
+        {
+          "title": "Creating a Personal Wellness Plan",
+          "description": "How to design a comprehensive self-care strategy for high-stress periods"
+        }
+      ]
+    },
+    {
+      "category": "Professional Help",
+      "title": "Seeking Support Now",
+      "description": "Important information about accessing professional help for high stress levels.",
+      "detailedDescription": "With high stress scores, professional support is strongly recommended. A mental health professional can provide personalized strategies and support to help you navigate this challenging time and prevent further distress.",
+      "resources": [
+        {
+          "title": "Types of Urgent Mental Health Support",
+          "description": "Information on therapy, psychiatry, crisis counseling, and support groups"
+        },
+        {
+          "title": "How to Talk About Your Stress",
+          "description": "Guide for explaining your feelings to healthcare providers"
+        },
+        {
+          "title": "Find a Counselor",
+          "link": "/counsellor"
+        }
+      ]
+    },
+    {
+      "category": "Spirituality",
+      "title": "Finding Meaning in Difficulty",
+      "description": "Spiritual perspectives and practices for navigating challenging times.",
+      "detailedDescription": "Spiritual practices can provide comfort, meaning, and perspective during periods of high stress. These approaches focus on connecting with something larger than yourself, finding purpose in difficulty, and cultivating inner peace.",
+      "resources": [
+        {
+          "title": "Contemplative Prayer and Meditation",
+          "description": "Guided practices from various spiritual traditions"
+        },
+        {
+          "title": "Finding Purpose in Suffering",
+          "description": "Perspectives on meaning-making during difficult circumstances"
+        },
+        {
+          "title": "Nature as Spiritual Connection",
+          "description": "Using natural surroundings as a source of healing and perspective"
+        }
+      ]
+    }
+  ]
+}

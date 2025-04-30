@@ -1,0 +1,12 @@
+@keyframes fadeFix {
+    0%, 98% {
+      opacity: 1;
+    }
+    99%, 100% {
+      opacity: 0.99;
+    }
+  }
+  
+  .fade-loop-video {
+    animation: fadeFix 3.5s linear infinite; /* Replace 7.2s with your actual video duration */
+  }
